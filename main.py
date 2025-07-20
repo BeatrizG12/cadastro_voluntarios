@@ -1,4 +1,4 @@
-# Importa os módulos necessários do Kivy (para a interface gráfica)
+cad# Importa os módulos necessários do Kivy (para a interface gráfica)
 from kivy.app import App  # Responsável por rodar o aplicativo
 from kivy.uix.boxlayout import BoxLayout  # Layout em forma de caixa (coluna ou linha)
 from kivy.uix.label import Label  # Rótulo de texto
